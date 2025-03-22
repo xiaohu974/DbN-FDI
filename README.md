@@ -1,12 +1,14 @@
 # DbN-FDI
 DbN-FDI: A dual-branch network model for low-light endoscopic image enhancement, integrating spatial and frequency domain information for improved image visibility, texture details, and color consistency.
-# Train
+《Integrating Spatial and Frequency Domain Information via a Dual-Branch Network for Enhanced Low-Light Endoscopic Imaging》：This article is being submitted to [The Visual Computer](https://link.springer.com/journal/371).
+# Training
 - Download the [dataset](https://data.mendeley.com/datasets/3j3tmghw33/1)
-- Train the model with default arguments by running
+- Use the below command for training:
 ```
 python train.py
 ```
-# Evaluation
+# Testing
+- Use the below command for testing:
 ```
 python evaluation.py
 ```
