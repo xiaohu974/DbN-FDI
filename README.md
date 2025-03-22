@@ -12,6 +12,8 @@ python train.py
 ```
 python evaluation.py
 ```
+# data_loaders 
+- To mitigate Fourier transform’s sensitivity to rotated images, we apply random horizontal/vertical flipping for data augmentation.
 # Project Environment
 - Use the below command for install project enviroment:
 ```
