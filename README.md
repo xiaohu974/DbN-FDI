@@ -1,5 +1,5 @@
 # DbN-FDI
-- 《Integrating Spatial and Frequency Domain Information via a Dual-Branch Network for Enhanced Low-Light Endoscopic Imaging》：This article is being submitted to [The Visual Computer](https://link.springer.com/journal/371).
+- 《Integrating Spatial and Frequency Domain Information via a Dual-Branch Network for Enhanced Low-Light Endoscopic Imaging》.
 # Training
 - Download the [Endo4IE](https://data.mendeley.com/datasets/3j3tmghw33/1)
 - Use the below command for training:
